@@ -1,0 +1,12 @@
+{
+  "name": "galos-online",
+  "version": "1.0.0",
+  "description": "Galos de Combate 1v1 - servidor WebSocket autoritativo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
